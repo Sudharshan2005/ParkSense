@@ -1,7 +1,3 @@
-Sure! Here's a sample `README.md` file for your **ParkSense** project. I've assumed it's a smart parking system—let me know if you'd like it adjusted for a different purpose:
-
----
-
 # 🚗 ParkSense
 
 **ParkSense** is a smart parking system designed to help drivers find available parking spots in real-time using IoT sensors, machine learning, and a user-friendly web/mobile interface. The system aims to reduce traffic congestion and save time by optimizing parking space utilization in urban areas.
@@ -100,7 +96,3 @@ _Add screenshots of the interface, dashboard, and real-time monitoring here._
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like it to be tailored for a college project, hackathon, hardware-less simulation, etc
